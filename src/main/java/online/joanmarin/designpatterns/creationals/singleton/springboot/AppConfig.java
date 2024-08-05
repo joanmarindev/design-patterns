@@ -1,4 +1,4 @@
-package online.joanmarin.designpatterns.springboot;
+package online.joanmarin.designpatterns.creationals.singleton.springboot;
 
 
 import org.springframework.context.annotation.Bean;
